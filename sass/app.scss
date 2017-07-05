@@ -1,0 +1,16 @@
+
+//import customVariables from sass file
+@import "customVariables";
+@import "functions";
+
+//import bootstrap
+
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap";
+
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap-compass";
+
+//import font-awesome files
+@import "../bower_components/font-awesome/scss/font-awesome.scss";
+
+//import custom styles
+@import "custom";
